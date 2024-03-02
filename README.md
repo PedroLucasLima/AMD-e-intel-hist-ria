@@ -1,1 +1,1 @@
-# AMD-e-intel-hist-ria
+# AMD-e-intel-historia
